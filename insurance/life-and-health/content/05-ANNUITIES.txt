@@ -1,0 +1,100 @@
+                                      Basic Annuity Concepts 190
+                                      Annuity Products        201
+                                     insurer’s general assets. This account is established to hold variable annuity and variable life insurance
+                                The life income option is similar to an annuity; the policy beneficiary will be guaranteed to receive an
+                                The beneficiary can select to receive the entire annuity payout until they die or share it with another
+                                The choices for the annuity are life only option, life with period certain, life with refund, or joint and
+               B. refund annuity option
+                                     B. refund annuity option                                 D. A full share of expense loading is usually
+                                                                      8.   B. Thomas has selected a refund annuity
+                                      An annuity is a financial product sold by financial institutions like insurance companies. This unit
+                                      discusses the different types of annuity contracts, the unique provisions, and the tax implications of the
+                                      distributions made to annuitants.
+                          ӽ explain the purpose of an annuity;
+                          ӽ identify the parties involved in an annuity contract: owner, annuitant, and beneficiary;
+                            annuity;
+                          ӽ explain the four factors used to determine the amount of a life annuity payout: annuitant’s age,
+                          ӽ describe the four types of annuity products: fixed, variable, equity indexed, and market value
+        9.3        BASIC ANNUITY CONCEPTS
+                   occurs. The insurance company that issues an annuity also makes a promise but, in this case, it is to an
+                   annuity contract owner. The promise is that if the contract is annuitized, it will pay an income to the
+                   annuitant, regardless of how long they live. Life insurance protects people from dying too soon, while
+                   An annuity contract has two phases; “Pay-In” and “Pay-Out.”
+                   9.3.1 Annuity Phases
+                   An annuity can have two phases or periods. The “Pay-In” phase called the accumulation period when
+                                An annuity cannot be used for both phases at the same time and once the contract is annuitized, no
+                                The Accumulation Period is when an annuity is being funded, before a payout begins. Life insurance
+                                companies issue these contracts and the money paid into the annuity is called a premium.
+                                      ■ surrender the annuity for its cash value; and
+                                                                                                   • Annuity value belongs to owner
+                                When the annuitization period starts, the accumulated value no longer belongs to the annuity owner:
+                                      ■ the annuity cannot be surrendered; and
+                   9.3.2 Parties Involved in the Annuity Contract
+                   There are four parties involved in an annuity contract:
+                           ■ annuitant,
+                   The contract owner is the person or the couple who buy the annuity and has certain rights. The contract
+                           ■ name or change the annuitant;
+                   9.3.2.2 Annuitant
+                   The annuitant (insured) is similar to the insured in a life insurance policy. They are chosen by the
+                   owner to receive the income payments during the annuitization period. The annuitant’s life expectancy
+                   is used to determine the amount of the guaranteed payments. The annuitant must be an individual—a
+                   The annuitant does not have the power to make withdrawals, deposits, change the names of the parties
+                   to the agreement, or terminate the contract. They must also sign the annuity contract.
+                   The contract owner and the annuitant are frequently the same person.
+                                The beneficiary has no voice in the control or management of the annuity and only benefits upon
+                                The insurer is the party who issues the annuity contract. Representing the insurer may be a local bank,
+                                                                                                      Parties to an Annuity
+                                      Parties to an Annuity                                                 • Names the annuitant
+                                                                                                        • Annuitant (insured)
+                                                                                                              payments if annuitant
+                   annuity to a beneficiary, they will have to pay taxes on any growth (interest) on the money that was put
+                   An immediate annuity is structured to provide current income and a deferred contract’s payout is a
+                   After paying a lump-sum premium, an immediate annuity or single premium immediate annuity
+                   A single premium immediate annuity (SPIA) pays a monthly income immediately. The first payment
+                                     Immediate Annuity
+                                                                                                Immediate Annuity
+                                deferred annuities, the annuity owner chooses the premium amount and the frequency of premium
+                                Lastly, the deferred annuity owner is not required to annuitize the contract.
+                                Deferred annuities can be purchased with a single premium [single premium deferred annuity
+                                     Deferred Annuity
+                                                                                                Deferred Annuity
+                   A withdrawal from an annuity is taxed different than annuitized payments. When a withdrawal is taken
+                   from an annuity, the earnings, or the growth portion, is taxed as ordinary income. Funds continue
+                   amount. For example, if you purchased a $20,000 annuity and it has grown to $45,000, the first $25,000
+                   In order for the annuitant to avoid additional fees from the insurance company for early withdrawal,
+                   For example, a $10,000 annuity contract has a schedule of surrender charges beginning with 7% in the
+                   The deferred annuity death benefit does not provide a surviving family a life insurance policy. Rather,
+                   the accumulated contract value is paid to a selected beneficiary if the annuity owner dies during the
+                           ■ the accumulated value of the annuity; or
+                                      1. The period during which a person receives the annuity benefits is called the
+                                              C. annuity return period
+                                      2. Under which annuity do the benefit payments begin within 12 months of the purchase?
+                                         A. An immediate annuity
+                                              B. A deferred annuity
+                                              C. A retirement annuity
+                                              D. An accumulated annuity
+                   Annuity payout options are similar to life insurance settlement options. They fall into two categories:
+                           ■ life annuities, which have a payment that is guaranteed to last for at least as long as the annuitant
+                   Under the life only option, sometimes called a pure life income, payments stop when the annuitant
+                   no other contingencies and only the annuitant’s life expectancy was considered to determine the amount
+                   The disadvantage of this selection is that the annuitant may die before their life expectancy and the total
+                   The life only annuity payout option is also referred to as:
+                   Under the Life with Refund option, if the annuitant dies and the total payments received are less than the
+                   amount paid for the annuity, the difference is paid to the beneficiary. The money may be paid either as a:
+                           ■ continuation of payments in the same amount as was being paid to the annuitant, called an
+                                The life with period certain option also pays an income for as long as the annuitant is alive. In
+                                addition, the annuitant selects a payment period, typically 5, 10, or 20 years, and payments are
+                                guaranteed to be made for at least that number of years. If the annuitant dies before the end of the
+                                are made to the beneficiary if the annuitants lives past the period certain.
+                                                                                                       • Annuity will pay beneficiary
+                                                                                                         if annuitant dies within that
+                                of two annuitants dies. For example, if the two annuitants were a married couple and the husband died
+                          Annuitants paid even after one                               Joint Life and Survivor
+                   The joint life annuity option pays income until the death of the first of two or more annuitants. While
+                   the monthly payment is greater than other joint annuities, it is not considered suitable as a joint annuity
+                          Two annuitants paid until one
+                                                                                           annuitants dies.
+                   9.5.1.6 Factors in Determining a Life Annuity Payment Amount
+                   Several factors are used to determine the payout of an annuity.
+                           ■ Annuitant’s age Age is used to determine life expectancy, which indicates how long payments
+                             will have to be made. The younger the annuitant, the lower the payment amount.
