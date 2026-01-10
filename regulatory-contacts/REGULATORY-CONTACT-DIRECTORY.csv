@@ -1,0 +1,54 @@
+Organization,Department,Phone,Email,Website,Filing Portal,Purpose,Hours,Notes
+FINRA,Main Switchboard,301-590-6500,,,finra.org,FINRA Gateway,General inquiries,M-F 8am-6pm ET,Press 0 for operator
+FINRA,Registration & Disclosure,240-386-4040,,,finra.org,FINRA Gateway,CRD/Form U4/U5,M-F 8am-8pm ET,
+FINRA,Testing & Continuing Education,240-386-4040,,,finra.org,FINRA Gateway,Exam scheduling/CE,M-F 8am-8pm ET,
+FINRA,Corporate Financing,240-386-5126,,,finra.org,FINRA Gateway,Rule 5110 filings,M-F 9am-5pm ET,Underwriting review
+FINRA,Advertising Regulation,240-386-4530,,,finra.org,FINRA Gateway,Rule 2210 filings,M-F 9am-5pm ET,10-day filing requirement
+FINRA,Market Regulation,240-386-5100,,,finra.org,,Trade reporting/OATS,M-F 8am-6pm ET,
+FINRA,Member Regulation,240-386-4600,,,finra.org,,Examinations/enforcement,M-F 8am-6pm ET,
+FINRA,Dispute Resolution (Arbitration),212-858-4400,,,finra.org,DR Portal,Customer/industry arbitration,M-F 9am-5pm ET,
+SEC,Main Switchboard,202-551-5500,,,sec.gov,EDGAR,General inquiries,M-F 9am-5:30pm ET,
+SEC,Office of Investor Education and Advocacy,202-551-6500,help@sec.gov,sec.gov/oiea,EDGAR,Investor complaints,M-F 9am-5:30pm ET,
+SEC,Division of Trading and Markets,202-551-5777,,sec.gov/tm,EDGAR,Broker-dealer regulation,M-F 9am-5:30pm ET,
+SEC,Division of Investment Management,202-551-6720,,sec.gov/investment,EDGAR,Investment adviser regulation,M-F 9am-5:30pm ET,Form ADV filings
+SEC,Office of Compliance Inspections and Examinations (OCIE),202-551-6200,,sec.gov/ocie,,Examinations,M-F 9am-5:30pm ET,Now Division of Examinations
+SEC,Division of Enforcement,202-551-4500,enforcement@sec.gov,sec.gov/enforcement,,Investigations/enforcement,M-F 9am-5:30pm ET,Tips and complaints
+SEC,EDGAR Filer Support,202-551-8900,,,sec.gov,EDGAR,EDGAR technical support,M-F 9am-5:30pm ET,
+MSRB,Main Office,202-838-1500,msrb1@msrb.org,msrb.org,EMMA,Municipal securities regulation,M-F 9am-5pm ET,
+MSRB,Market Transparency (EMMA),202-838-1330,emma@msrb.org,emma.msrb.org,EMMA,EMMA data/disclosures,M-F 9am-5pm ET,
+NASAA,Main Office,202-737-0900,,,nasaa.org,,State securities regulators,M-F 9am-5pm ET,
+FinCEN,Main Office,800-949-2732,frc@fincen.gov,fincen.gov,BSA E-Filing System,AML/BSA reporting,M-F 8am-6pm ET,CTR/SAR filings
+FinCEN,BSA E-Filing Help Desk,866-346-9478,,,fincen.gov,BSA E-Filing System,E-filing technical support,M-F 8am-6pm ET,
+SIPC,Main Office,202-371-8300,asksipc@sipc.org,sipc.org,,Securities investor protection,M-F 9am-5pm ET,Member assessments
+NFA,Main Office,312-781-1300,information@nfa.futures.org,nfa.futures.org,,Futures/forex regulation,M-F 8am-5pm CT,If futures trading
+CFTC,Main Office,202-418-5000,questions@cftc.gov,cftc.gov,,Commodities regulation,M-F 8:30am-5pm ET,If commodities trading
+State - Alabama,Alabama Securities Commission,334-242-2984,asc@asc.alabama.gov,asc.alabama.gov,,State securities registration,M-F 8am-5pm CT,
+State - Alaska,Division of Banking & Securities,907-269-8140,dced.sec@alaska.gov,dced.state.ak.us/bsc,,State securities registration,M-F 8am-5pm AKT,
+State - Arizona,Arizona Corporation Commission - Securities Division,602-542-4242,,azcc.gov,,State securities registration,M-F 8am-5pm MST,
+State - Arkansas,Arkansas Securities Department,501-324-9260,securities@arkansas.gov,securities.arkansas.gov,,State securities registration,M-F 8am-5pm CT,
+State - California,Department of Financial Protection & Innovation,866-275-2677,,,dfpi.ca.gov,Online portal,State securities/investment adviser,M-F 8am-5pm PT,Formerly DBO
+State - Colorado,Division of Securities,303-894-2320,dora_securitieswebsite@state.co.us,securities.colorado.gov,,State securities registration,M-F 8am-5pm MT,
+State - Connecticut,Department of Banking - Securities Division,860-240-8230,,,ct.gov/dob,,State securities registration,M-F 8:30am-4:30pm ET,
+State - Delaware,Division of Securities,302-577-8424,securities@delaware.gov,securities.delaware.gov,,State securities registration,M-F 8:30am-4:30pm ET,
+State - Florida,Office of Financial Regulation,850-410-9805,,,flofr.gov,Online portal,State securities registration,M-F 8am-5pm ET,
+State - Georgia,Securities & Charities Division,404-656-3920,securities@sos.ga.gov,sos.ga.gov/securities,,State securities registration,M-F 8am-5pm ET,
+State - Illinois,Secretary of State - Securities Department,217-782-2256,securitiescompliance@ilsos.gov,illinoissecurities.gov,,State securities registration,M-F 8am-4:30pm CT,
+State - Indiana,Securities Division,317-232-6681,securities@sos.in.gov,in.gov/sos/securities,,State securities registration,M-F 8am-5pm ET,
+State - Massachusetts,Securities Division,617-727-3548,securities@sec.state.ma.us,sec.state.ma.us,,State securities registration,M-F 9am-5pm ET,
+State - Michigan,Corporations Securities & Commercial Licensing Bureau,877-999-6442,,,michigan.gov/lara,,State securities registration,M-F 8am-5pm ET,
+State - Minnesota,Commerce Fraud Bureau,651-539-1600,securities.fraud@state.mn.us,mn.gov/commerce,,State securities registration,M-F 8am-4:30pm CT,
+State - New Jersey,Bureau of Securities,973-504-3600,,,njconsumeraffairs.gov/sec,,State securities registration,M-F 8:30am-4:30pm ET,
+State - New York,Attorney General - Investor Protection Bureau,212-416-8222,investor.protection@ag.ny.gov,ag.ny.gov,,State securities enforcement,M-F 9am-5pm ET,
+State - New York,Department of Financial Services,800-342-3736,,,dfs.ny.gov,,Insurance & banking,M-F 8:30am-4:30pm ET,
+State - Ohio,Division of Securities,614-644-7381,securities@com.ohio.gov,com.ohio.gov/secu,,State securities registration,M-F 8am-5pm ET,
+State - Pennsylvania,Securities Commission,717-787-8061,,,pa.gov/agencies/securities-commission.html,,State securities registration,M-F 8am-5pm ET,
+State - Texas,State Securities Board,512-305-8300,,,ssb.texas.gov,Online portal,State securities registration,M-F 8am-5pm CT,
+State - Washington,Department of Financial Institutions - Securities Division,360-902-8760,securities@dfi.wa.gov,dfi.wa.gov/securities,,State securities registration,M-F 8am-5pm PT,
+NAIC,Main Office,816-842-3600,,,naic.org,,Insurance regulation coordination,M-F 8:30am-5pm CT,State insurance
+Insurance - California,Department of Insurance,800-927-4357,,,insurance.ca.gov,,State insurance regulation,M-F 8am-5pm PT,
+Insurance - Florida,Office of Insurance Regulation,850-413-3140,,,floir.com,,State insurance regulation,M-F 8am-5pm ET,
+Insurance - New York,Department of Financial Services,800-342-3736,,,dfs.ny.gov,,State insurance regulation,M-F 8:30am-4:30pm ET,
+Insurance - Texas,Department of Insurance,800-252-3439,,,tdi.texas.gov,,State insurance regulation,M-F 8am-5pm CT,
+IRS,Business & Specialty Tax Line,800-829-4933,,,irs.gov,,Tax reporting (W-9/1099),M-F 7am-7pm local,For 1099 questions
+OFAC,Hotline,800-540-6322,ofac_feedback@treasury.gov,treasury.gov/ofac,,Sanctions compliance,M-F 9am-5pm ET,Sanctions screening
+DOL,Employee Benefits Security Administration,866-444-3272,,,dol.gov/agencies/ebsa,,ERISA retirement plans,M-F 8:30am-5pm ET,If offering retirement plans
