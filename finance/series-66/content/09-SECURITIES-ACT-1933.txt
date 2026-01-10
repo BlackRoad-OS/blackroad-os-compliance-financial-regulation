@@ -1,0 +1,80 @@
+                            prospectus in the question, you know the question is about a new issue. Sometimes a question
+                              Securities Act of 1933;
+                   1. 1          THE SECURITIES ACT OF 1933
+                                         The Securities Act of 1933 (also called the Paper Act, the Truth in Securities Act,
+                                    and the Prospectus Act) regulates the issuing of corporate securities sold to the pub-
+                                    (SEC) in a registration statement and published in a prospectus. In addition, the act
+                                        Definitions under the Securities Act of 1933 are similar to those you will see under
+                                    tions under the Securities Act of 1933 are those that follow.
+                   1. 1. 1. 5          Prospectus
+                                       A prospectus is any notice, circular, letter, or communication, written or broadcast
+                                   writers) is not considered a prospectus nor an offering of the subject security. The term
+                                   prospectus does not include oral communications.
+                           QUICK QUIZ 1.A         1.   The term issuer, as defined in the Securities Act of 1933, would include:
+                                                  2.   Under the Securities Act of 1933, which of the following is NOT a security?
+                                  tration statement and prospectus.
+                                  mation is fully disclosed in the registration statement and prospectus by requiring that:
+                                  ■■ the issuer file a registration statement with the SEC before securities are offered or sold
+                                  ■■ a prospectus that meets the requirements of the act be provided to prospective buyers;
+                                      The Securities Act of 1933 makes it unlawful to sell or deliver a secu­rity through any
+                                  instrument of interstate commerce unless a registration statement is in effect. However,
+                                                    to comply with the Securities Act of 1933. It is important to remember that any
+                                  The Securities Act of 1933 protects investors who buy new issues by:
+                   1. 4. 1     THE REGISTRATION STATEMENT
+                                    An issuer must file a registration statement with the SEC disclosing material informa-
+                               tion about the issue. The registration statement must be signed by the principal executive
+                               mis­statements of material facts. The information required in the registration statement
+                                     After the issuer files a registration statement with the SEC, a 20-day cooling-off period
+                                 20 days; the SEC usually takes longer to clear registration statements.
+                                         registration statement,          during the cooling-off       but the firm must use a
+                                         no sales can be solicited        period, but indications of   final prospectus.
+                                         and no prospectus can            interest can be solicited
+             1. 4. 3             PRELIMINARY (RED HERRING) PROSPECTUS
+                                     The preliminary prospectus must be made available to any prospective purchaser who
+                                 ■■ in place of a registration statement; or
+                                    preceded by a preliminary prospectus, including a price range where required by rule, may
+                                        can be received until the registration statement has become effective, and any such
+                                       The term red herring was given to the preliminary prospectus because the front page
+                                            A Registration Statement relating to these securities has been filed with the
+                                    prospectus under any circumstances. They cannot write short summaries or reviews on the
+                                    preliminary prospectus. The preliminary prospectus must be given to customers without
+                                                          Two items missing from the preliminary prospectus (red herring) are the pub-
+                                                        ■■ distribute preliminary prospectuses; or
+             1. 4. 4             THE FINAL (EFFECTIVE) PROSPECTUS
+                                      A registration statement is normally a very long and complex document for an inves-
+                                 tor to read. The act requires the preparation of a shorter document called a prospectus.
+                                 The prospectus summarizes the infor­mation contained in the registration statement. It
+                                 must contain all the material facts in the registration statement, but in shorter form. The
+                                 of the sale. The purpose of a prospectus is to provide the investor with adequate informa-
+                                 read a prospectus, it still must be given to him. It is unlawful for a company to sell securi-
+                   1. 4. 4. 1         Rule 482 (Omitting) Prospectus
+                                 as an omitting prospectus. The rule is SEC Rule 482, which describes mutual fund adver-
+                                 tisements. To comply with this rule, an omitting prospectus must meet the following
+                                     prospectus.
+                                 ■■ The advertisement must state conspicuously from whom a prospectus may be obtained.
+                                 ■■ The advertisement must urge investors to read the prospectus carefully before invest-
+                                     via an application found in the prospectus.
+             1. 4. 5             EFFECTIVE DATE OF REGISTRATION STATEMENT
+                                     On the date a registration statement becomes effective, securities may be sold to the
+                                     A copy of the final (effective) prospectus must be delivered to each pur­chaser. This is
+                                 normally accomplished by including the prospectus along with a confirmation of the trade,
+                                 spectus. Just as with a preliminary prospectus, no markings of any kind may be placed on
+                                 the prospectus. No areas of special interest may be highlighted or have attention drawn to
+                                     Every prospectus always has the following statement in bold print on the front page.
+                                      PROSPECTUS. ANY REPRESENTATION TO THE CONTRARY IS A CRIMI-
+                   1. 4. 6   LIABILITIES UNDER THE SECURITIES ACT OF 1933
+                                 The Securities Act of 1933 provides penalties for false and mislead­ing statements con-
+                             tained in the registration statement or prospectus. If misrepresentations were intentionally
+                             codes allow a purchaser of a security under a registration statement containing a false
+                             to believe, after investigation, that the statements contained in the registration statement
+                                 made without having to file a com­plete registration statement with the SEC. The time and
+                                 the Securities Act of 1933. This act represents the most important changes in the regula-
+                        1. 10. 2. 1 Management Company Prospectus Delivery Requirements
+                               rent fund prospectus must be delivered prior to or concurrent with the sale. In the case of
+                               a closed-end company, a prospectus is only required on the IPO; all trading subsequent to
+                               that is in the secondary market and does not require delivery of a prospectus.
+                                                     II. The only time a prospectus is used with the sale of a closed-end com-
+                                                         or accompanied by a prospectus.
+                               company under the Securities Act of 1933. In addition, they register specifically as invest-
+                                 ■■ deviation from any fundamental policy in its registration statement, including a
+                                 cally requires that the public offering price, as stated in the prospectus, be upheld for all
