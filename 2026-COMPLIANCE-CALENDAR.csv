@@ -1,0 +1,41 @@
+Month,Date,Task,Exam/License,Frequency,Responsible Party,Regulation Reference
+January,Daily,Review daily operations checklist,Series 7/24,Daily,Principal/CCO,FINRA Rule 3110
+January,5,Begin annual compliance report preparation,Series 24,Annual,CCO,FINRA Rule 3130
+January,15,Review Q4 access person trades,Series 65,Quarterly,CCO,Advisers Act Rule 204A-1
+January,31,File Form ADV amendments (if FYE 10/31),Series 65,Annual,CCO,Advisers Act Rule 204-1
+February,1,Deliver updated Form ADV brochures (if FYE 10/31),Series 65,Annual,IAR,Advisers Act Rule 204-3
+February,15,Review continuing education status,All Series,Monthly,Compliance,FINRA/State Rules
+February,28,Complete monthly compliance checklist,Series 7,Monthly,Compliance Officer,FINRA Rules
+March,1,Begin branch office inspections,Series 24,Annual,Principal,FINRA Rule 3110
+March,15,Review and update AML procedures,All,Annual,AML Officer,Bank Secrecy Act
+March,31,Complete Q1 compliance review,All,Quarterly,CCO,Internal Policy
+April,1,Review state registration renewals,Series 66,As needed,Compliance,State Requirements
+April,15,File Annual SAR Report (if applicable),All,Annual,AML Officer,FinCEN
+April,15,Review Q1 access person trades,Series 65,Quarterly,CCO,Advisers Act Rule 204A-1
+April,30,File Form ADV amendments (if FYE 1/31),Series 65,Annual,CCO,Advisers Act Rule 204-1
+May,1,Deliver updated Form ADV brochures (if FYE 1/31),Series 65,Annual,IAR,Advisers Act Rule 204-3
+May,15,Review insurance license renewals,Life & Health,Every 2 years,Agent,State Insurance Dept
+May,31,Complete spring branch inspections,Series 24,Annual,Principal,FINRA Rule 3110
+June,1,Mid-year WSP review,Series 24,Annual,CCO,FINRA Rule 3110
+June,15,Review cybersecurity measures,All,Semi-annual,IT/Compliance,SEC Guidance
+June,30,Complete Q2 compliance review,All,Quarterly,CCO,Internal Policy
+July,1,Begin annual compliance training preparation,All,Annual,Compliance Officer,FINRA/State Rules
+July,15,Review Q2 access person trades,Series 65,Quarterly,CCO,Advisers Act Rule 204A-1
+July,31,File Form ADV amendments (if FYE 4/30),Series 65,Annual,CCO,Advisers Act Rule 204-1
+August,1,Deliver updated Form ADV brochures (if FYE 4/30),Series 65,Annual,IAR,Advisers Act Rule 204-3
+August,15,Conduct annual AML training,All,Annual,AML Officer,Bank Secrecy Act
+August,31,Review and update privacy policies,All,Annual,Compliance Officer,Reg S-P
+September,1,Begin annual WSP update,Series 24,Annual,CCO,FINRA Rule 3110
+September,15,Review third-party vendor agreements,All,Annual,Compliance,FINRA Guidance
+September,30,Complete Q3 compliance review,All,Quarterly,CCO,Internal Policy
+October,1,Begin Q4 planning for annual tasks,All,Annual,CCO,Internal Policy
+October,15,Review Q3 access person trades,Series 65,Quarterly,CCO,Advisers Act Rule 204A-1
+October,31,File Form ADV amendments (if FYE 7/31),Series 65,Annual,CCO,Advisers Act Rule 204-1
+November,1,Deliver updated Form ADV brochures (if FYE 7/31),Series 65,Annual,IAR,Advisers Act Rule 204-3
+November,15,Conduct annual compliance training,All,Annual,Compliance Officer,FINRA/State Rules
+November,30,Complete fall branch inspections,Series 24,Annual,Principal,FINRA Rule 3110
+December,1,Finalize annual WSP update,Series 24,Annual,CCO,FINRA Rule 3110
+December,15,Test business continuity plan,All,Annual,Operations Manager,FINRA Rule 4370
+December,31,File annual compliance report,Series 24,Annual,CCO,FINRA Rule 3130
+December,31,Complete annual compliance review,All,Annual,CCO,Internal Policy
+December,31,Renew surety bond,All,Annual,CFO,FINRA Rule 4360
