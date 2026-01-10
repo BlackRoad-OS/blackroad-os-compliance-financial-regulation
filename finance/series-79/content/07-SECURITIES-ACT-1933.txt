@@ -1,0 +1,100 @@
+                               Lesson 7.1: Aspects of the Registration Statement. .............................................................................................. 98
+                     prospectus in the question, you know the question is about a new issue. Sometimes a question
+                     Regulation S-X requires reporting companies to provide the SEC with copies of their financial
+                                                2.   Regulation S-X requires reporting companies to provide the SEC with copies of their
+                                                     Regulation S-X, must include the balance sheet (or statement of financial
+                     by the Securities Act of 1933, which requires issuers of securities to provide sufficient
+                     information to the investing public in a prospectus so that investors may make informed
+                     offered to the public. The Securities Act of 1933 strictly prohibits fraudulent information or
+                                        Securities Act of 1933
+                                        The primary purpose of the Securities Act of 1933 is to require full and fair disclosure in
+                                        The Securities Act of 1933 requires that a new issue, unless exempt, must be registered with
+                                        the SEC before public sale. All investors must receive a detailed prospectus before purchase.
+                                        requirements of the Securities Act of 1933 apply.
+                               Activities involving new issues or the primary market (registration, prospectus
+                               requirements, and underwriting) are regulated by the Securities Act of 1933. Activities
+                     the Securities Act of 1933, a corporate bond issuer, before registration, must prepare a trust
+                                                   then files a registration statement with the SEC, rates may move back up before the
+                                        rates fall, the issuer has an effective registration statement in place and can sell the five-year
+                                      A. the Securities Act of 1933.
+                               1. A The Securities Act of 1933 is often referred to as the act of full disclosure, which
+                                       To be effective, a green shoe clause must be disclosed in both the registration statement filed
+                                       with the SEC and the prospectus.
+                                                              be added to the registration statement.
+                     ❯ LO 7.a   Identify the types of registration statements.
+                     ❯ LO 7.b   Recall the elements of a prospectus.
+                     ❯ LO 7.c   Recall the delivery requirements for a prospectus in the secondary market.
+                     Under Section 5 of the Securities Act of 1933, it is a felony to use any means of transportation
+          LESSON 7.1: ASPECTS OF THE REGISTRATION STATEMENT
+                                       Filing the Registration Statement
+                                       LO 7.a       Identify the types of registration statements.
+                                       Form S-1
+                                       To register a new issue with the SEC, a first-time issuer generally files a registration statement
+                                       using Form S-1. Included in the statement are the following:
+                                       Form S-3 is a short-form registration statement available to domestic issuers who are either
+                     Form S-4 is the registration statement used for securities to be issued as the result of mergers
+                     registration period, a supplemental prospectus must be filed before each sale with up-to-date
+                     only refile the registration statement, including prospectuses. This will automatically update
+                                        Regulation S-X requires companies to make certain financial statement disclosures. These
+                                        with the registration statement include
+                                        Along with the financial statements, Regulation S-X requires the statements to be audited by
+                                        Deficiencies in the Registration Statement
+                                        If the SEC believes that there is not sufficient disclosure in the registration statement, the
+                                        Once the registration statement is filed, the issuer enters into a 20-day cooling off period,
+                      The Prospectus
+                      LO 7.b    Recall the elements of a prospectus.
+                      A prospectus, as defined by the Securities Act of 1933, is any “notice, circular, advertisement,
+                      Communications Not Deemed a Prospectus
+                      The definition of a prospectus is intentionally broad. The SEC, however, has ruled that there
+                       Communication sent after the effective date and a prospectus has been delivered at, or
+                       Notice indicating where a prospectus may be obtained, identifies the security, gives the               Unit 7
+                                considered a prospectus. Care must be taken, however, to ensure that the
+                                or else it would fall under the definition of a prospectus.
+                      Types of Prospectuses
+                      Free Writing Prospectuses
+                      A free writing prospectus is any written communication that is an offer to buy or sell securities
+                      related to a registered offering. It can be considered a supplement to the prospectus and may
+                      not use a free writing prospectus.
+                                Free writing prospectuses may take the form of many types of communications such
+                      When a seasoned or unseasoned issuer distributes a free writing prospectus, it must be
+                      preceded by a copy of the prospectus. This requirement implies that the registration statement
+                      must first be filed with the SEC, before any free writing prospectuses may be used. WKSIs,
+                      however, do not have the same restriction. WKSIs may issue a free writing prospectus
+                      regardless of whether the registration statement has been filed or not.
+                                A free writing prospectus can contain information beyond what is found in the
+                                registration statement, but it cannot conflict with the registration statement.
+                                        registration statement at least 21 days before a roadshow is allowed to take place.
+                                        distribute preliminary prospectuses, and publish tombstone advertisements to provide
+                                        is considered a free writing prospectus. A real-time broadcast to a live audience, however, is
+                                        not viewed as a graphic communication or prospectus by the SEC.
+                                        While road shows may be considered free writing prospectuses, they are only required to make
+                                        the same filings as other free writing prospectuses during an IPO of common or convertible
+                                           Preliminary Prospectus
+                                           preliminary prospectus. A preliminary prospectus, also called a red herring, can be used to
+                                           part of the registration statement. SEC rules permit the omission of information regarding
+              registration statement,          during the cooling-off       but the firm must use a
+              no sales can be solicited        period, but indications of   final prospectus.
+              and no prospectus can            interest can be solicited
+                                                      believes to be the key issues. Marking or highlighting a prospectus is a violation of
+                                           If it appears to the SEC that the registration statement contains material omissions or
+                                        Final Prospectus
+                                        prospectus is prepared. At that time, a formal underwriting agreement is signed by the issuer
+                                        cover of every prospectus:
+                                              prospectus is truthful or complete. Nor have they made, nor will they make, any
+                                                     All buyers of the new issue must receive a copy of the final prospectus at or before
+                                                     later in this unit. If sent in print form, the final prospectus must be sent under separate
+                                        these statements in their annual reports to shareholders, as well as in prospectuses and proxy
+                                        Regulation S-K establishes guidelines to be used when preparing projections. The basis of
+                      All persons who sign the registration statement (e.g., officers and directors of the issuer,
+                      Prospectus Requirements in the Secondary Market
+                      LO 7.c     Recall the delivery requirements for a prospectus in the secondary market.
+                      In certain offerings, a final prospectus must be delivered by all members to buyers in the
+                      prospectus delivery requirement period, and is summarized in the following. This can be satisfied
+                      It may seem a bit confusing to talk about a rule for prospectus delivery in the secondary
+                      the primary market, will be required to have available the final prospectus for a certain period
+                      issuer must make the prospectus available to the purchaser, which can be satisfied most often
+                      Prospectus Delivery Requirements for IPOs
+                      Prospectus Delivery Requirements for Additional Issue Offerings
+                       If the security is listed or quoted over Nasdaq, a prospectus must be delivered only in
+                        obligation to deliver a prospectus in secondary market transactions.
+                       If the security is non-Nasdaq, the prospectus delivery requirement period is 40 days.

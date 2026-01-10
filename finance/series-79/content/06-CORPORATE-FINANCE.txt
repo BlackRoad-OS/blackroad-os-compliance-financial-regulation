@@ -1,0 +1,24 @@
+                                      of profitability that omits the corporate capital structure of interest payments and tax
+                               gauges the regular profitability before the effect of capital structure and taxes. EBITDA
+                               gauges the regular cash flow from operations before the effect of capital structure and
+                                      little long-term debt in its capital structure.
+                                      the company’s capital structure that is debt.
+                                      to the company’s peers, it may not be using debt financing to its full extent and may be
+                                      EV/EBITDA has the advantage of not having capital structure or taxation as part of the
+                                                         A. EV/EBITDA does not include capital structure or taxation as part of the
+                     1. A EV/EBITDA has the advantage of not having capital structure or taxation as part of
+                     The cost of debt financing is intuitively the easiest of all capital costs. When debt is issued,
+                     computation of the cost of debt financing as well. The after-tax cost of debt is calculated as:
+                                       Weighted Average Cost of Capital (WACC)
+                                       capital (WACC). The WACC is simply the sum of the after-tax cost of each component of
+                                              WACC = w d R d (1 − tax rate) + w p R p + w E R E
+                                       When computing the WACC, it is easiest to compute it using a table like the following.
+          Figure 4.2: WACC for XYZ Corp. (marginal tax rate of 35%)
+                                                  WACC. Always scan the question to see if the cost of debt given is pretax or after-tax.
+                                                  A company’s WACC can be used as the discount rate when computing present value,
+                                      A. computing the weighted average cost of capital (WACC).
+                                    computing the WACC. The WACC is simply the sum of the after-tax cost of each
+            LTM        last twelve months                           WACC      weighted average cost of capital
+           WACC                          wdRd (1− tax rate) + wpRp + wERE
+             own trades as well as those of introducing (correspondent)         changes in capital structure such as a stock split.
+                                                  Title 11 of the U.S. Code, 196, 200          weighted average cost of capital (WACC), 70
