@@ -1,0 +1,100 @@
+                     Lesson 9.2: Annuity Purchase and Settlement Options 230
+                     Options      245
+                     Lesson 10.1: Basic Options Including the Role of the OCC 246
+                     Lesson 10.2: Valuing Options 251
+                     Lesson 10.3: Basic Option Strategies 254
+                     Lesson 10.4: Advanced Options Strategies 261
+                     Lesson 10.5 Nonequity Options 272
+                     Lesson 10.6: Options Math 280
+                     Lesson 10.7: Options Taxation 298
+                     Lesson 10.8: Rules and Regulations of the Options Market 300
+                     The exam is administered via computer. A tutorial on how to take the exam is provided
+                     The computer is programmed to select a new, random set of questions for each exam
+                      and answer questions; some you will simply have to do systematically.
+                                     Watch the time carefully (your time remaining will be displayed on your computer screen),
+                                     To obtain admission to a FINRA-administered exam, your firm must electronically apply
+                         f LO 1.g    Recall the features of individual retirement arrangements.
+                         f LO 1.j    Recall when health savings accounts (HSAs) may be used.
+                                       securities in the portfolio serving as collateral for the loan. This is called buying securities on
+                                       buy securities. The shortfall between the purchase price and the amount of money put in is a
+                     other firms, called executing brokers, typically execute most of the trades placed by the
+                                                       other services, while other firms, called executing brokers, handle most of the trades
+                                         with day trading (the statement can be furnished in writing or electronically), and
+                         called tenants. Joint account agreements allow any or all tenants to transact business in the
+                         You must put the interest of the client first. Because a joint account is really nothing other
+                                       is therefore automatically presumed by law in these jurisdictions. Exceptions are made for
+                                       have created separate classifications called community property with rights of survivorship that
+                     Custodial accounts are not technically joint accounts as there is only one owner but there
+                                                        (TOD) option. Although the assets in a JTWROS account pass to the survivor without
+                      difference is that sending duplicate confirmations is required, not optional. One of the
+                                       example, this would include, but not be limited to, securing desktop and laptop computers
+                                the electronic delivery of information, and a toll-free number that customers may call.
+                                Limited power of attorney, also called limited trading authorization, allows entering of
+                                        provide that a specifically designated person maintains power over the account even upon the
+                                        to call the registered representative handling their JTWROS account and ask that the other
+                          Tax-deferred. Simply, income tax is put off (deferred) to a later time. In most retirement
+                                        Nonqualified plans may be used to favor certain employees (typically executives) because
+                      paid and may be invested in any number of retirement vehicles at the employee’s option.
+                                     D. typically benefits younger employees.
+                                        LO 1.g Recall the features of individual retirement arrangements.
+                                                                  physically or mentally incapable of self-support regardless of age.
+                      Adjusted gross income, generally referred to as AGI, is computed on the bottom of the first
+                      income tax consequences for doing so. Basically, the entire amount converted is added to the
+                      to determine how much is nontaxable, but that type of computation will not be tested.
+                                                     Assume questions are about traditional IRAs unless they specifically state otherwise.
+                                        their yields are typically lower than those of other similar investments, and the income
+                                        retirement plan. The same is true for speculative options strategies such as uncovered (naked)
+                                        puts and calls. Covered call writing and buying puts and calls is allowed (more on those in
+            Whole life insurance                   Speculative option strategies
+                      either traditional or Roth. When you terminate employment (or retire), you have the option
+                      Historically, these plans were (and still are) referred to as TSAs because annuities were the only
+                      investment option. In 1974, a provision was made to permit the purchase of mutual funds as
+                      Even though technically a nonqualified plan, employees can defer compensation in a 457
+                                Because of the actuarial assumptions and computations, the amount of the annual
+                                technically defined contribution plans, they are not pension plans, and employer
+                                        The Roth 401(k) plan is an option available to an existing 401(k) plan. This option combines
+                                        Stock Purchase Plans and Stock Options
+                                        automatically taken out of a participant’s paycheck on an after-tax basis every pay period and
+                                        as every six months. These plans are similar to other types of stock option plans in that they
+                                        come with more formal stock option arrangements. Plus, they are designed to be somewhat
+                                        An employer may also offer stock options that give an employee the right to purchase a
+                                        these plans. For publicly traded stock, the strike price (also called the grant or exercise price)
+                                        is usually the market price of the stock at the time the option is granted. In most cases, there
+                                        is a minimum time the employee must remain with the company to be able to use the option
+                                        option (purchasing the stock) at the lower strike price and then sell the stock at the current
+                                        require that the stock option plan be approved by the board of directors. Please note that these
+                                        are not the same as the put and call options we will be covering at length in Unit 10.
+                          stock at a discount from the purchase price is called
+                          company stock at a discount from the purchase price is called an employee stock
+                      LO 1.j Recall when health savings accounts (HSAs) may be used.
+                                       be important are that the contribution for those with family coverage is higher (logically) than
+                         f LO 2.c	Recall the methods to verify customer information including sophistication and/or
+                         LO 2.c Recall the methods to verify customer information including sophistication
+                                       statements, insurance policies, 401(k) plan options, and maybe tax returns. Why is all of this
+                                        In Part 2 of this course, we’ll discuss the various investment options used to meet these
+                          called investment constraints. Investment constraints are limitations or restrictions that are
+                          frequently use margin, sell short, and trade in options or penny stocks. As a registered
+                                                         investment options available. Income is an objective and college education is a goal.
+                                        LO, we’ll dig deeper for the papers needed for options and margin and discretionary accounts.
+                                        Options Accounts
+                                        There are some unique requirements to open options accounts. In Unit 10, we will learn
+                                        much more about options. This LO is only about opening an account. Trading options (puts
+                                        and calls) generally involves a higher degree of risk than stocks, bonds, or mutual funds. That
+                                        higher risk requires that a designated supervisory person with knowledge about options must
+                                        approve the account opening. In addition, there is a special options disclosure document
+                                        (ODD) that must be provided to any prospective options customer.
+                                        To get a customer’s account approved for options trading, a member firm, or registered rep
+                                        facts relative to the customer. This is nothing new. One question asked on a new options
+                                        the trades. You would ask about frequency and type of transactions for options, stocks and
+                                        There is a special options account agreement. It describes the risks of options trading and the
+                                 10. When a registered representative opens a new options account for a client, in which
+                                      III. Obtain a signed options agreement.
+                                     Answer: C. The steps in opening an options account occur in the following order:
+                                     obtain essential facts about the customer, give the customer an options disclosure
+                                     have the customer sign and return the options agreement within 15 days.
+                       a loan consent (optional).
+                      include the method of interest computation and situations under which interest rates may
+                                                    agreement. The loan consent form is optional.
+                                         Customers are not entitled to choose which securities can be sold if a maintenance call is
+                                         Customers are not entitled to an extension of time to meet a margin call.
+                                                         the hypothecation agreement. The loan consent agreement is optional.

@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Sensitive data (should never be committed)
+*.key
+*.pem
+secrets/
+credentials/
+.env
+
+# Build artifacts
+dist/
+build/
+*.log

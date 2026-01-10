@@ -1,0 +1,100 @@
+56:                         UNIT 1
+71:                         UNIT 2
+89:                         UNIT 3
+110:                                UNIT 4
+122:                                UNIT 5
+132:                                UNIT 6
+146:                                UNIT 7
+154:                                UNIT 8
+176:                     UNIT 9
+187:                     UNIT 10
+201:                     UNIT 11
+213:                     UNIT 12
+228:                                UNIT 13
+239:                                UNIT 14
+249:                                UNIT 15
+263:                                UNIT 16
+274:                                UNIT 17
+290:                         UNIT 18
+302:                         UNIT 19
+312:                         UNIT 20
+806:                           Unit 1: Types of Accounts
+807:                           Unit 2: Obtain Necessary Suitability Information and Approvals
+859:           4         Unit 1   Types of Accounts
+918:                                                                                        Unit 1   Types of Accounts        5
+926:                     One of the benefits of fee-based accounts is that they tend to reduce the likelihood of                     Unit 1
+978:           6         Unit 1   Types of Accounts
+1037:                                                                                           Unit 1   Types of Accounts        7
+1044:                         There are many different registration types available when opening an account at a broker-                 Unit 1
+1091:           8         Unit 1   Types of Accounts
+1143:                                                                                       Unit 1   Types of Accounts        9
+1151:                                                                                                                                Unit 1
+1201:           10         Unit 1   Types of Accounts
+1249:                                                                                             Unit 1   Types of Accounts       11
+1256:                                                                                                                                      Unit 1
+1285:                         (DPPs) discussed in Unit 11. Suitability decisions are similar to a general partnership except
+1307:           12         Unit 1   Types of Accounts
+1364:                                                                                          Unit 1   Types of Accounts       13
+1371:                       Customer’s name and residence address                                                                      Unit 1
+1417:           14         Unit 1   Types of Accounts
+1472:                                                                                         Unit 1   Types of Accounts       15
+1479:                       spouses or minor children of member firm employees.                                                       Unit 1
+1531:           16        Unit 1   Types of Accounts
+1593:                                                                                           Unit 1   Types of Accounts       17
+1601:                      by the regulation.                                                                                            Unit 1
+1650:           18         Unit 1   Types of Accounts
+1708:                                                                                               Unit 1   Types of Accounts        19
+1715:                                                                                                                                         Unit 1
+1766:           20         Unit 1   Types of Accounts
+1779:                                          purchased on an individual basis outside of a retirement plan, as described in Unit 9.
+1821:                                                                                         Unit 1   Types of Accounts       21
+1828:                                                                                                                                  Unit 1
+1880:           22         Unit 1   Types of Accounts
+1930:                                                                                               Unit 1   Types of Accounts       23
+1937:                      Individual retirement accounts (IRAs) were created to encourage people to save for their                          Unit 1
+1988:           24         Unit 1   Types of Accounts
+2044:                                                                                                       Unit 1   Types of Accounts       25
+2051:                Year   Phaseout Range: Single Filers       Phaseout Range: Joint Filers                                                         Unit 1
+2101:           26         Unit 1   Types of Accounts
+2156:                                                                                        Unit 1   Types of Accounts       27
+2163:                                                                                                                                 Unit 1
+2210:           28         Unit 1   Types of Accounts
+2264:                                                                                            Unit 1   Types of Accounts         29
+2272:                                                                                                                                       Unit 1
+2322:           30         Unit 1   Types of Accounts
+2364:                                        Unit 10).
+2376:                                                                                           Unit 1   Types of Accounts       31
+2384:                                                                                                                                    Unit 1
+2434:           32         Unit 1   Types of Accounts
+2493:                                                                                                           Unit 1   Types of Accounts       33
+2501:                                      earnings are taxed to the recipient (beneficiary) and are subject to a 10% tax penalty when                   Unit 1
+2549:           34         Unit 1   Types of Accounts
+2607:                                                                                            Unit 1   Types of Accounts       35
+2614:                       Participants’ earnings accumulate tax-free until distribution.                                               Unit 1
+2663:           36         Unit 1   Types of Accounts
+2722:                                                                                         Unit 1   Types of Accounts       37
+2730:                      plans.                                                                                                      Unit 1
+2776:           38         Unit 1   Types of Accounts
+2805:                                                   dollar cost averaging, a technique described in Unit 8, which always results in a lower
+2836:                                                                                        Unit 1   Types of Accounts       39
+2843:                       The first year after the calendar year in which she retires from employment with the                     Unit 1
+2892:           40         Unit 1   Types of Accounts
+2941:                                        are not the same as the put and call options we will be covering at length in Unit 10.
+2949:                                                                                 Unit 1   Types of Accounts       41
+2957:                                                                                                                          Unit 1
+3005:           42         Unit 1   Types of Accounts
+3056:                                                                                        Unit 1   Types of Accounts       43
+3064:                                    Answer: A. A defined benefit plan offered by a manufacturing company to                      Unit 1
+3111:           44        Unit 1   Types of Accounts
+3192:           46         Unit 2   Obtain Necessary Suitability Information and Approvals
+3247:                                                             Unit 2   Obtain Necessary Suitability Information and Approvals       47
+3264:                                                                                                                                          Unit 2
+3304:           48         Unit 2   Obtain Necessary Suitability Information and Approvals
+3354:                                                              Unit 2   Obtain Necessary Suitability Information and Approvals       49
+3373:                                                                                                                                           Unit 2
+3416:           50        Unit 2   Obtain Necessary Suitability Information and Approvals
+3430:                                       the case of investments requiring accredited investor status (covered extensively in Unit 20), it
+3470:                                                             Unit 2   Obtain Necessary Suitability Information and Approvals       51
+3487:                                                                                                                                          Unit 2
+3525:           52         Unit 2   Obtain Necessary Suitability Information and Approvals
+3576:                                                             Unit 2   Obtain Necessary Suitability Information and Approvals       53
