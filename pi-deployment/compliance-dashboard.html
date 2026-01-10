@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlackRoad Compliance Dashboard | Enterprise Compliance Monitoring</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #000000;
+            color: #FFFFFF;
+            line-height: 1.6;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
+            padding: 2rem;
+            border-bottom: 3px solid #F5A623;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #F5A623 0%, #FF1D6C 50%, #2979FF 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .header .subtitle {
+            color: #999;
+            font-size: 1rem;
+        }
+
+        .header .last-updated {
+            color: #F5A623;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .metric-card {
+            background: #1a1a1a;
+            border: 2px solid #333;
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .metric-card:hover {
+            transform: translateY(-5px);
+            border-color: #F5A623;
+            box-shadow: 0 8px 24px rgba(245, 166, 35, 0.2);
+        }
+
+        .metric-card.critical {
+            border-color: #FF1D6C;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2a0a15 100%);
+        }
+
+        .metric-card.warning {
+            border-color: #F5A623;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2a1f0a 100%);
+        }
+
+        .metric-card.success {
+            border-color: #00C853;
+            background: linear-gradient(135deg, #1a1a1a 0%, #0a2a15 100%);
+        }
+
+        .metric-card .label {
+            font-size: 0.85rem;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.5rem;
+        }
+
+        .metric-card .value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .metric-card.critical .value { color: #FF1D6C; }
+        .metric-card.warning .value { color: #F5A623; }
+        .metric-card.success .value { color: #00C853; }
+
+        .metric-card .change {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .metric-card .change.positive {
+            color: #00C853;
+        }
+
+        .metric-card .change.negative {
+            color: #FF1D6C;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #333;
+            color: #F5A623;
+        }
+
+        .chart-container {
+            background: #1a1a1a;
+            border: 2px solid #333;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .progress-bar {
+            background: #333;
+            height: 30px;
+            border-radius: 15px;
+            overflow: hidden;
+            margin: 1rem 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #F5A623 0%, #FF1D6C 100%);
+            transition: width 0.5s ease;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 10px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .table-container {
+            background: #1a1a1a;
+            border: 2px solid #333;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 2rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        thead {
+            background: #2a2a2a;
+        }
+
+        th {
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+            color: #F5A623;
+            border-bottom: 2px solid #333;
+        }
+
+        td {
+            padding: 1rem;
+            border-bottom: 1px solid #2a2a2a;
+        }
+
+        tr:hover {
+            background: #252525;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .status-badge.critical {
+            background: rgba(255, 29, 108, 0.2);
+            color: #FF1D6C;
+            border: 1px solid #FF1D6C;
+        }
+
+        .status-badge.high {
+            background: rgba(245, 166, 35, 0.2);
+            color: #F5A623;
+            border: 1px solid #F5A623;
+        }
+
+        .status-badge.medium {
+            background: rgba(41, 121, 255, 0.2);
+            color: #2979FF;
+            border: 1px solid #2979FF;
+        }
+
+        .status-badge.low {
+            background: rgba(0, 200, 83, 0.2);
+            color: #00C853;
+            border: 1px solid #00C853;
+        }
+
+        .status-badge.complete {
+            background: rgba(0, 200, 83, 0.2);
+            color: #00C853;
+            border: 1px solid #00C853;
+        }
+
+        .status-badge.pending {
+            background: rgba(245, 166, 35, 0.2);
+            color: #F5A623;
+            border: 1px solid #F5A623;
+        }
+
+        .status-badge.overdue {
+            background: rgba(255, 29, 108, 0.2);
+            color: #FF1D6C;
+            border: 1px solid #FF1D6C;
+        }
+
+        .alert {
+            background: rgba(255, 29, 108, 0.1);
+            border-left: 4px solid #FF1D6C;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 8px;
+        }
+
+        .alert h3 {
+            color: #FF1D6C;
+            margin-bottom: 0.5rem;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            border-top: 2px solid #333;
+            margin-top: 3rem;
+        }
+
+        .footer .brand {
+            background: linear-gradient(135deg, #F5A623 0%, #FF1D6C 50%, #2979FF 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 700;
+        }
+
+        @media (max-width: 768px) {
+            .metrics-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🖤🛣️ BlackRoad Compliance Dashboard</h1>
+        <div class="subtitle">Enterprise-Grade Regulatory Compliance Monitoring</div>
+        <div class="last-updated">Last Updated: <span id="lastUpdate"></span></div>
+    </div>
+
+    <div class="container">
+        <!-- Critical Alerts -->
+        <div class="section">
+            <div id="criticalAlerts"></div>
+        </div>
+
+        <!-- Key Metrics -->
+        <div class="section">
+            <h2 class="section-title">⚡ Real-Time Compliance Metrics</h2>
+            <div class="metrics-grid">
+                <div class="metric-card success">
+                    <div class="label">Overall Compliance Score</div>
+                    <div class="value">94</div>
+                    <div class="change positive">↑ 3 points from last month</div>
+                </div>
+
+                <div class="metric-card warning">
+                    <div class="label">Open Exceptions</div>
+                    <div class="value">12</div>
+                    <div class="change negative">↑ 4 from last week</div>
+                </div>
+
+                <div class="metric-card success">
+                    <div class="label">Training Completion</div>
+                    <div class="value">98%</div>
+                    <div class="change positive">↑ 5% from last month</div>
+                </div>
+
+                <div class="metric-card critical">
+                    <div class="label">Overdue Tasks</div>
+                    <div class="value">3</div>
+                    <div class="change">Immediate attention required</div>
+                </div>
+
+                <div class="metric-card success">
+                    <div class="label">Customer Complaints (MTD)</div>
+                    <div class="value">2</div>
+                    <div class="change positive">↓ 60% from last month</div>
+                </div>
+
+                <div class="metric-card warning">
+                    <div class="label">Regulatory Deadlines (90 Days)</div>
+                    <div class="value">8</div>
+                    <div class="change">5 high priority</div>
+                </div>
+
+                <div class="metric-card success">
+                    <div class="label">Active Registrations</div>
+                    <div class="value">47</div>
+                    <div class="change positive">All current</div>
+                </div>
+
+                <div class="metric-card success">
+                    <div class="label">AML Alerts Resolved</div>
+                    <div class="value">100%</div>
+                    <div class="change positive">Within SLA</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Supervision Metrics -->
+        <div class="section">
+            <h2 class="section-title">👁️ Supervision & Oversight</h2>
+            <div class="chart-container">
+                <h3 style="margin-bottom: 1rem; color: #F5A623;">Trade Review Completion (This Month)</h3>
+                <div style="margin-bottom: 1rem;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                        <span>Daily Reviews</span>
+                        <span>95%</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 95%;">95%</div>
+                    </div>
+                </div>
+
+                <div style="margin-bottom: 1rem;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                        <span>Weekly Suitability Reviews</span>
+                        <span>88%</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 88%;">88%</div>
+                    </div>
+                </div>
+
+                <div>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                        <span>Monthly Compliance Checks</span>
+                        <span>100%</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 100%;">100%</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Exception Reports -->
+        <div class="section">
+            <h2 class="section-title">⚠️ Active Exception Reports</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Exception ID</th>
+                            <th>Type</th>
+                            <th>Account/Rep</th>
+                            <th>Severity</th>
+                            <th>Detected</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>EX-2026-001</td>
+                            <td>Churning Alert</td>
+                            <td>Account #12345</td>
+                            <td><span class="status-badge high">HIGH</span></td>
+                            <td>2026-01-08</td>
+                            <td><span class="status-badge pending">PENDING REVIEW</span></td>
+                        </tr>
+                        <tr>
+                            <td>EX-2026-002</td>
+                            <td>Suitability</td>
+                            <td>Rep: J. Smith</td>
+                            <td><span class="status-badge medium">MEDIUM</span></td>
+                            <td>2026-01-07</td>
+                            <td><span class="status-badge pending">IN PROGRESS</span></td>
+                        </tr>
+                        <tr>
+                            <td>EX-2026-003</td>
+                            <td>Documentation Gap</td>
+                            <td>Account #67890</td>
+                            <td><span class="status-badge low">LOW</span></td>
+                            <td>2026-01-06</td>
+                            <td><span class="status-badge complete">RESOLVED</span></td>
+                        </tr>
+                        <tr>
+                            <td>EX-2026-004</td>
+                            <td>Concentration Risk</td>
+                            <td>Account #34567</td>
+                            <td><span class="status-badge high">HIGH</span></td>
+                            <td>2026-01-05</td>
+                            <td><span class="status-badge pending">PENDING REVIEW</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Upcoming Deadlines -->
+        <div class="section">
+            <h2 class="section-title">📅 Upcoming Regulatory Deadlines</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Deadline</th>
+                            <th>Requirement</th>
+                            <th>Regulator</th>
+                            <th>Priority</th>
+                            <th>Status</th>
+                            <th>Days Remaining</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2026-02-15</td>
+                            <td>Annual Compliance Report</td>
+                            <td>FINRA</td>
+                            <td><span class="status-badge critical">CRITICAL</span></td>
+                            <td><span class="status-badge pending">IN PROGRESS</span></td>
+                            <td style="color: #F5A623; font-weight: 600;">37 days</td>
+                        </tr>
+                        <tr>
+                            <td>2026-03-01</td>
+                            <td>Form ADV Annual Update</td>
+                            <td>SEC</td>
+                            <td><span class="status-badge critical">CRITICAL</span></td>
+                            <td><span class="status-badge pending">NOT STARTED</span></td>
+                            <td style="color: #F5A623; font-weight: 600;">51 days</td>
+                        </tr>
+                        <tr>
+                            <td>2026-03-15</td>
+                            <td>AML Independent Test</td>
+                            <td>FinCEN/FINRA</td>
+                            <td><span class="status-badge high">HIGH</span></td>
+                            <td><span class="status-badge pending">SCHEDULED</span></td>
+                            <td>65 days</td>
+                        </tr>
+                        <tr>
+                            <td>2026-03-31</td>
+                            <td>Q1 Branch Inspections</td>
+                            <td>Internal</td>
+                            <td><span class="status-badge high">HIGH</span></td>
+                            <td><span class="status-badge pending">IN PROGRESS</span></td>
+                            <td>81 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Training Status -->
+        <div class="section">
+            <h2 class="section-title">🎓 Training & Certification Status</h2>
+            <div class="metrics-grid">
+                <div class="metric-card success">
+                    <div class="label">Annual Training Complete</div>
+                    <div class="value">98%</div>
+                    <div class="change">46 of 47 employees</div>
+                </div>
+                <div class="metric-card success">
+                    <div class="label">Regulatory Element Current</div>
+                    <div class="value">100%</div>
+                    <div class="change positive">All reps current</div>
+                </div>
+                <div class="metric-card warning">
+                    <div class="label">CE Deadlines (90 Days)</div>
+                    <div class="value">4</div>
+                    <div class="change">Reminders sent</div>
+                </div>
+                <div class="metric-card success">
+                    <div class="label">Active Licenses</div>
+                    <div class="value">47</div>
+                    <div class="change positive">No expirations</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- AML Monitoring -->
+        <div class="section">
+            <h2 class="section-title">🔍 AML Transaction Monitoring</h2>
+            <div class="chart-container">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;">
+                    <div>
+                        <div style="color: #999; margin-bottom: 0.5rem;">Transactions Screened (MTD)</div>
+                        <div style="font-size: 2rem; font-weight: 700; color: #2979FF;">12,847</div>
+                    </div>
+                    <div>
+                        <div style="color: #999; margin-bottom: 0.5rem;">AML Alerts Generated</div>
+                        <div style="font-size: 2rem; font-weight: 700; color: #F5A623;">23</div>
+                    </div>
+                    <div>
+                        <div style="color: #999; margin-bottom: 0.5rem;">SARs Filed (YTD)</div>
+                        <div style="font-size: 2rem; font-weight: 700; color: #FF1D6C;">3</div>
+                    </div>
+                    <div>
+                        <div style="color: #999; margin-bottom: 0.5rem;">OFAC Hits</div>
+                        <div style="font-size: 2rem; font-weight: 700; color: #00C853;">0</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p><span class="brand">🖤🛣️ BlackRoad OS</span> - Enterprise Compliance Framework</p>
+        <p style="margin-top: 0.5rem; font-size: 0.9rem;">Better than any financial company.</p>
+    </div>
+
+    <script>
+        // Update last updated timestamp
+        document.getElementById('lastUpdate').textContent = new Date().toLocaleString();
+
+        // Check for critical alerts and display
+        function checkCriticalAlerts() {
+            const overdueCount = 3; // From metrics
+            
+            if (overdueCount > 0) {
+                const alertsDiv = document.getElementById('criticalAlerts');
+                alertsDiv.innerHTML = `
+                    <div class="alert">
+                        <h3>🚨 Critical Alert: ${overdueCount} Overdue Tasks</h3>
+                        <p>You have ${overdueCount} compliance tasks that are past their deadline. Immediate action required to maintain regulatory compliance.</p>
+                        <p style="margin-top: 0.5rem;"><strong>Action Required:</strong> Review and complete overdue tasks immediately. Escalate to CCO if assistance needed.</p>
+                    </div>
+                `;
+            }
+        }
+
+        checkCriticalAlerts();
+
+        // Auto-refresh every 5 minutes
+        setInterval(() => {
+            document.getElementById('lastUpdate').textContent = new Date().toLocaleString();
+            // In production, this would fetch fresh data from an API
+        }, 300000);
+    </script>
+</body>
+</html>

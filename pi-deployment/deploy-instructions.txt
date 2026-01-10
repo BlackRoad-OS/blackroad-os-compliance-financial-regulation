@@ -1,0 +1,21 @@
+# Deploy to Alice Pi (192.168.4.49)
+
+## Step 1: Copy files to Pi
+scp -r ~/blackroad-os-compliance-financial-regulation/pi-deployment/* pi@192.168.4.49:~/apps/blackroad-compliance/
+
+## Step 2: SSH to Pi and deploy
+ssh pi@192.168.4.49
+
+cd ~/apps/blackroad-compliance
+npm install
+pm2 delete blackroad-compliance 2>/dev/null || true
+pm2 start ecosystem.config.js
+pm2 save
+
+## Access dashboard:
+http://192.168.4.49:8084
+
+## Manage service:
+pm2 status
+pm2 logs blackroad-compliance
+pm2 restart blackroad-compliance

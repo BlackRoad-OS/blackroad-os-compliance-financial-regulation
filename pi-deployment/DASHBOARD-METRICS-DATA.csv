@@ -1,0 +1,19 @@
+Metric Category,Metric Name,Current Value,Previous Value,Target,Status,Trend,Last Updated,Notes
+Overall,Compliance Score,94,91,90,GREEN,UP,2026-01-09,Above target
+Supervision,Open Exceptions,12,8,<10,YELLOW,UP,2026-01-09,Increased from last week
+Training,Training Completion Rate,98%,93%,95%,GREEN,UP,2026-01-09,2 employees pending
+Compliance,Overdue Tasks,3,1,0,RED,UP,2026-01-09,CRITICAL: Immediate action required
+Customer,Complaints (MTD),2,5,<3,GREEN,DOWN,2026-01-09,60% reduction
+Regulatory,Deadlines (90 Days),8,6,Monitor,YELLOW,UP,2026-01-09,5 high priority
+Registration,Active Registrations,47,47,47,GREEN,FLAT,2026-01-09,All current
+AML,Alerts Resolved,100%,98%,100%,GREEN,UP,2026-01-09,Within SLA
+Supervision,Daily Trade Reviews,95%,92%,90%,GREEN,UP,2026-01-09,Above target
+Supervision,Weekly Suitability,88%,85%,85%,GREEN,UP,2026-01-09,Meeting target
+Supervision,Monthly Compliance,100%,100%,100%,GREEN,FLAT,2026-01-09,Perfect compliance
+Training,Regulatory Element,100%,100%,100%,GREEN,FLAT,2026-01-09,All reps current
+Training,CE Deadlines (90 Days),4,3,Monitor,YELLOW,UP,2026-01-09,Reminders sent
+Training,Active Licenses,47,47,47,GREEN,FLAT,2026-01-09,No expirations
+AML,Transactions Screened (MTD),12847,11234,Monitor,GREEN,UP,2026-01-09,15% increase
+AML,AML Alerts Generated,23,19,Monitor,GREEN,UP,2026-01-09,All resolved
+AML,SARs Filed (YTD),3,2,Monitor,GREEN,UP,2026-01-09,Timely filings
+AML,OFAC Hits,0,0,0,GREEN,FLAT,2026-01-09,No issues
