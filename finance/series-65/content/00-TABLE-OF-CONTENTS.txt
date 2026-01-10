@@ -1,0 +1,100 @@
+54:                              UNIT 1
+63:                              UNIT 2
+76:                              UNIT 3
+87:                              UNIT 4
+109:                               UNIT 5
+119:                               UNIT 6
+127:                               UNIT 7
+136:                               UNIT 8
+147:                               UNIT 9
+164:                              UNIT 10
+173:                              UNIT 11
+182:                              UNIT 12
+191:                              UNIT 13
+202:                              UNIT 14
+223:                               UNIT 15
+231:                               UNIT 16
+241:                               UNIT 17
+250:                               UNIT 18
+263:                               UNIT 19
+277:                              UNIT 20
+289:                              UNIT 21
+300:                              UNIT 22
+308:                              UNIT 23
+318:                              UNIT 24
+455:                                FINRA Job Function               LEM Lesson or Unit                Number of Questions
+863:          2          Unit 1   Types and Characteristics of Equity Securities
+890:                                       in Unit 8. In Unit 7, we will show you that whatever a business owns (its assets) less its
+919:                                                                              Unit 1   Types and Characteristics of Equity Securities     3
+926:                                  rather than subject to variation as with common stock. As a result, its price tends to fluctuate             Unit 1
+929:                                  known as interest rate or money rate risk, will be covered in the next unit as well as Unit 19.
+973:          4          Unit 1   Types and Characteristics of Equity Securities
+996:                                                    will be covered in more detail in Unit 15.
+1010:                                       2. Stock dividends are not taxed when received. As you will learn in Unit 15, they are not
+1032:                                                                              Unit 1   Types and Characteristics of Equity Securities     5
+1040:                                  Commission (SEC) under the Securities Exchange Act of 1934. Shareholders also have the                       Unit 1
+1045:                                  rights in Unit 4.
+1077:                                  business not be able to pay off its obligations. This concept will be discussed later, in Unit 16.
+1091:          6          Unit 1   Types and Characteristics of Equity Securities
+1144:                                                                               Unit 1   Types and Characteristics of Equity Securities     7
+1152:                                  describe the security. However, all maintain preference over common stock. Remember,                          Unit 1
+1200:          8          Unit 1   Types and Characteristics of Equity Securities
+1257:                                                                              Unit 1   Types and Characteristics of Equity Securities     9
+1265:                                                                                                                                               Unit 1
+1307:          10         Unit 1   Types and Characteristics of Equity Securities
+1343:                                       qualified retirement plans (discussed in Unit 18), there are no nondiscrimination requirements
+1353:                                       described later in Unit 4—these are available only to employees of the issuing company. Most
+1367:                                                                                 Unit 1   Types and Characteristics of Equity Securities   11
+1374:                                             An employee exercises an NSO at $52 per share when the current fair value of the                     Unit 1
+1397:                                   minimum tax (AMT) (covered in Unit 15).
+1426:          12         Unit 1   Types and Characteristics of Equity Securities
+1438:                                       In Unit 8 of this course, we will discuss the exemption from registration for securities sold as
+1485:                                                                                 Unit 1   Types and Characteristics of Equity Securities   13
+1493:                                                  must be accompanied by a Rule 144 filing on Form 144 by the selling party. Although             Unit 1
+1539:          14         Unit 1   Types and Characteristics of Equity Securities
+1596:                                                                               Unit 1   Types and Characteristics of Equity Securities   15
+1603:                                                                                                                                                Unit 1
+1632:                                      covered in Unit 20), and, as a result, the overall risk of the portfolio is reduced.
+1648:          16         Unit 1   Types and Characteristics of Equity Securities
+1669:                                                    We will return to some of these risks again in Unit 19.
+1768:                                   Your exam will include approximately five questions from the topics covered in Unit 2.
+1788:          20         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+1846:                                                                   Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   21
+1864:                                   In the case of bonds, interest is generally paid semiannually based on a stated coupon rate.                 Unit 2
+1905:          22         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+1964:                                                                   Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   23
+1982:                                                  best to lowest grade) are                                                                     Unit 2
+2012:          24         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2069:                                                                  Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   25
+2087:                                   discretion of the investor. The ratio of conversion varies from one company’s bond to another               Unit 2
+2127:          26         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2185:                                                                   Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   27
+2204:                                                                                                                                                Unit 2
+2248:          28         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2304:                                                                      Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   29
+2326:                                                                                                                                                   Unit 2
+2371:          30         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2418:                                                                     Unit 2    Types and Characteristics of Fixed-Income (Debt) Securities   31
+2446:                                                                   Par Bond                                                                        Unit 2
+2483:          32         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2541:                                                                   Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   33
+2560:                                                                                                                                                Unit 2
+2599:          34         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2610:                                                         the “risk-free” rate. More about that in Unit 21.
+2654:                                                                   Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   35
+2669:                                   We will demonstrate the return of a TIPS bond in Unit 22.
+2672:                                                                                                                                                Unit 2
+2715:          36         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2771:                                                                    Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   37
+2788:                                                  Answer: A. A unique feature of Ginnie Maes is that they pay interest on a monthly              Unit 2
+2829:          38         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+2888:                                                                            Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities       39
+2906:                                                                                                                                                             Unit 2
+2948:          40         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+3002:                                                                    Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   41
+3020:                                                                                                                                                 Unit 2
+3061:          42         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities
+3118:                                                                   Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities   43
+3121:                                   In Unit 3, we will discuss how most investors use pooled investment vehicles, such as mutual
+3135:                                             name of the instrument tells you how principal and interest are paid. Eurodollar bonds             Unit 2
+3173:          44         Unit 2   Types and Characteristics of Fixed-Income (Debt) Securities

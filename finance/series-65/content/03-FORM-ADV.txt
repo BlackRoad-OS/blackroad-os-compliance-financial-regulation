@@ -1,0 +1,80 @@
+                              Lesson 13.4: The Investment Adviser Brochure 281
+                                                        Appendix B Form ADV: Instructions for Part 1A
+                                       using the IARD system on certain items set forth in Form ADV, which will be made publicly
+                                          the application for registration on Form ADV; and
+                                    to the Form ADV by an SEC registered IA, the reported AUM is less than $90 million, it is
+                                       including the use of the Form ADV.
+                                       Registration is accomplished using FormADV. Form ADV consists of Part 1A and Part 1B, and
+                                       Part 2A and Part 2B. Investment advisers use Form ADV to:
+                                    Form ADV
+                                    Form ADV contains four parts. Part 1A asks a number of questions about the investment
+                                    Part 2A requires advisers to create narrative brochures containing information about the
+                                    Part 2B requires advisers to create brochure supplements containing information about
+                                    We will cover the brochures and brochure supplements in greater detail later in Unit 13.
+                                       The application for registration as an investment adviser is on Form ADV.
+                                       Part 2A is known as the investment adviser’s brochure and tends to focus on customer related
+                                       The brochure is arranged in a narrative form using plain English.
+                                       Part 2B requires advisers to create brochure supplements containing information about certain
+                                                        A. Form ADV Part 1A.
+                                                        B. Form ADV Part 1B.
+                                                        C. Form ADV Part 2A.
+                                                        D. Form ADV Part 2B.
+                                                      Answer: C. Form ADV Part 2A contains information of most use to clients, such as
+                                                  specific area on Form ADV Part 2B where state-registered advisers must identify each
+                                                  in Form ADV, it is not necessary to repeat it in response to this question.
+                                    Updating Form ADV
+                                    updating amendment. Form ADV must be updated each year by filing an annual updating
+                                    continue being registered with the SEC. One of the requirements relating to the brochure
+                                    the brochure (cover page or the page immediately thereafter) or as an exhibit to the brochure.
+                                    In addition to the annual updating amendment, the IA must amend Form ADV by filing
+                                     Inaccuracy of information provided in the brochure
+                                    Form ADV-W
+                                    is accomplished by filing Form ADV-W. Form ADV-W must be filed in order to withdraw
+                                    resolution of the issue. Otherwise, each Form ADV-W filed by an SEC registered adviser is
+                                       in Form ADV Part 1, which will be made publicly available on the SEC’s website.
+                                                    Exempt reporting advisers (ERAs) file Form ADV Part 1 (they don’t answer all of the
+                                                    questions) but do not have to prepare a Form ADV Part 2.
+                                                    2.   In which of the following cases is it necessary to submit a new Form ADV rather than
+                                    Here is the way it is stated in Form ADV Part 2:
+                                                  statement copied from Form ADV:
+                                                  If you are subject to state regulation, by signing this Form ADV, you represent that you
+                                       the CCO’s identity must be disclosed on Form ADV.
+               12-month period, the choice with six clients or                 requiring a new Form ADV Part 1 and Part 2.
+                                        is, a Form ADV is filed. That filing includes the names and other pertinent information about
+                                                           A. Form ADV.
+                                    ❯❯ LO 13.f  Recall the contents of the investment adviser’s brochure including wrap fee programs.
+                                    ❯❯ LO 13.g  Compare the state and federal brochure delivery requirements.
+                                    statement (the brochure described shortly) prepared by the adviser that makes all appropriate
+                                    both the broker-dealer and the soliciting advisers to inform advisory clients of their ability to
+                                       brochure delivered no later than commencing the advisory agreement.
+                                    For investment advisers, this form is also known as Form ADV Part 3.
+             LESSON 13.4: THE INVESTMENT ADVISER BROCHURE
+                                    LO 13.f Recall the contents of the investment adviser’s brochure
+                                    As mentioned earlier, Form ADV Part 2 is a disclosure document that, under state and federal
+                                     Part 2A of Form ADV: Firm Brochure
+                                     Part 2A Appendix 1 of Form ADV: Wrap Fee Program Brochure
+                                     Part 2B of Form ADV: Brochure Supplement (describes certain supervised persons)
+                                    and prospective clients a brochure disclosing information about the firm. They also may be
+                                    required to deliver a brochure supplement disclosing information about one or more of their
+                                    supervised persons. Part 2 of Form ADV sets out the minimum required disclosure that the
+                                    brochure (Part 2A for a firm brochure, or Appendix 1 for a wrap fee program brochure) and
+                                    brochure supplements (Part 2B) must contain. Here are some of the key points of which you
+                                     Narrative Format. Part 2 of Form ADV consists of a series of items that contain
+                                       disclosure requirements for the firm’s brochure and any required supplements. The items
+                                       that the item is not applicable. There are 18 items on Form ADV Part 2A (with a 19th
+                                        Plain English. The items in Part 2 of Form ADV are designed to promote effective
+                                          communication between the firm and their clients. The brochure and supplements
+                                          sophistication. Specifically, the SEC states that the brochure should be concise and direct.
+                                          The brochure should discuss any conflicts the adviser has or is reasonably likely to have
+                                        Full and Truthful Disclosure. Obviously, all information in the brochure and brochure
+                                        Filing. The investment adviser must file the brochure(s) (and amendments) through
+                                          SEC, it is not required to file the brochure supplements through the IARD or otherwise.
+                                          more state securities authorities, a copy of the brochure supplement (Part 2B) must be
+                                                   brochure supplements. If you think about it, it makes sense because virtually all
+                                       The cover page of the brochure must state the name, business address, contact information,
+                                       website address (if there is one), and the date of the brochure. Furthermore, the cover page of
+                                       the brochure must state the following (or other clear and concise language conveying the same
+                                       information) and identify the document as a brochure:
+                                       “This brochure provides information about the qualifications and business practices of [firm name].
+                                       If you have any questions about the contents of this brochure, please contact us at [telephone
+                                       number and/or email address]. The information in this brochure has not been approved or verified
