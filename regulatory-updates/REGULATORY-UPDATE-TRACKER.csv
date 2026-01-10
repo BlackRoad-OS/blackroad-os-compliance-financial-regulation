@@ -1,0 +1,6 @@
+Update ID,Date Published,Source,Rule/Release Number,Title,Summary,Effective Date,Implementation Deadline,Impact Level,Affected Areas,Status,Assigned To,Completion Date,Notes
+RU-2026-001,2026-01-15,FINRA,NTM 26-01,Social Media Supervision Enhancement,New requirements for supervision of social media communications,2026-04-01,2026-03-15,HIGH,"Communications, Supervision, Technology",In Progress,CCO,,WSP updates required
+RU-2026-002,2026-01-10,SEC,Release 34-99999,Form CRS Updates,Additional disclosure requirements for Form CRS,2026-06-01,2026-05-15,MEDIUM,"Disclosures, Forms",Not Started,Compliance Mgr,,Review template
+RU-2025-045,2025-12-20,FINRA,Rule 2241,Research Analyst Conflicts,Amended conflict of interest disclosure requirements,2026-03-01,2026-02-15,LOW,Research,Completed,Research Compliance,2026-01-05,Implemented successfully
+RU-2025-044,2025-12-15,SEC,IA Release 6543,Custody Rule Amendment,Updated qualified custodian requirements,2026-07-01,2026-06-15,HIGH,"Custody, Operations",Planning,COO,,Need external audit consultation
+RU-2025-043,2025-12-01,NASAA,Model Rule Update,Senior Investor Protection,Enhanced protections for investors age 65+,Varies by State,Varies by State,HIGH,"Sales Practice, Supervision",In Progress,CCO,,Multi-state implementation required
