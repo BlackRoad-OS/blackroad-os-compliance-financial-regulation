@@ -1,0 +1,21 @@
+Task,Frequency,Responsible Party,Due Date,Status,Regulation Reference
+Review customer account statements,Monthly,Operations Manager,,Complete accuracy check,FINRA Rule 2231
+Reconcile securities positions,Monthly,Operations,,Match customer vs firm records,SEC Rule 17a-13
+Review failed trades and exceptions,Monthly,Operations Manager,,Resolve outstanding issues,FINRA Rule 11860
+Verify net capital calculation,Monthly,CFO/Finance,,Ensure compliance with minimums,SEC Rule 15c3-1
+Update customer account information,Monthly,Compliance Officer,,Verify any changes documented,FINRA Rule 4512
+Review advertising and communications,Monthly,Compliance Officer,,Ensure regulatory compliance,FINRA Rule 2210
+Conduct branch office reviews,Monthly,Principal,,Supervise branch operations,FINRA Rule 3110
+Review trade blotter entries,Monthly,Compliance Officer,,Verify complete and accurate,FINRA Rule 4511
+Check continuing education status,Monthly,Compliance Officer,,Track CE requirements,FINRA Rule 1250
+Review customer complaints log,Monthly,Compliance Officer,,Ensure proper documentation,FINRA Rule 4513
+Monitor concentrated positions,Monthly,Compliance Officer,,Identify and address risks,FINRA Rule 2111
+Review margin account compliance,Monthly,Margin Department,,Verify Reg T compliance,Regulation T
+Update outside business activities,Monthly,Compliance Officer,,Verify approvals current,FINRA Rule 3270
+Review private securities transactions,Monthly,Compliance Officer,,Ensure proper notification,FINRA Rule 3280
+Check employee trading activity,Monthly,Compliance Officer,,Monitor for violations,Internal Policy
+Review exception reports,Monthly,Compliance Officer,,Address trading anomalies,FINRA Rule 3110
+Verify custody of securities,Monthly,Operations,,Ensure proper safekeeping,SEC Rule 15c3-3
+Review AML transaction monitoring,Monthly,AML Officer,,Analyze suspicious activity,Bank Secrecy Act
+Update written supervisory procedures,As needed,Compliance Officer,,Reflect current operations,FINRA Rule 3110
+Review cybersecurity measures,Monthly,IT/Compliance,,Assess data protection,SEC Guidance

@@ -1,0 +1,11 @@
+Task,Regulation M Rule,Responsible Party,Completed,Notes,Violation Risk
+Identify restricted period,Rule 101,Syndicate Desk,,Varies by security type,High
+Cease distribution participant bidding,Rule 101,Trading Desk,,During restricted period,High
+Verify passive market making,Rule 103,Trading Desk,,If applicable,Medium
+Document stabilization activity,Rule 104,Syndicate Desk,,Penalty bids and stabilization,High
+Notify FINRA of stabilization,Rule 104,Compliance,,Prior to commencement,High
+Record stabilization transactions,Rule 104,Syndicate Desk,,All stabilizing bids,High
+Cease stabilization,Rule 104,Syndicate Desk,,When no longer needed,Medium
+Verify no manipulation,General,Compliance,,Review all activity,High
+Document penalty bids,Rule 104,Syndicate Desk,,Reclaim concessions,Medium
+Review aftermarket support,General,Compliance,,Ensure compliance,High

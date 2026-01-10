@@ -1,0 +1,16 @@
+Task,Frequency,Responsible Party,Status,Notes,Regulation Reference
+Review registered representative activity,Daily,Principal,,Monitor all rep trading,FINRA Rule 3110
+Approve new account openings,Daily,Principal,,Review and sign accounts,FINRA Rule 3110
+Review customer complaints,Daily,Principal,,Document and respond,FINRA Rule 4513
+Monitor branch email communications,Daily,Principal,,Sample-based review,FINRA Rule 3110
+Review order tickets for suitability,Daily,Principal,,Pre or post-trade review,FINRA Rule 2111
+Verify transaction processing,Daily,Operations Principal,,Ensure proper execution,FINRA Rules
+Review discretionary account activity,Daily,Principal,,Verify authorization,FINRA Rule 3260
+Monitor outside business activities,Daily,Compliance Principal,,Track OBA approvals,FINRA Rule 3270
+Check margin account compliance,Daily,Financial/Operations Principal,,Verify Reg T compliance,Regulation T
+Review trade exceptions and errors,Daily,Operations Principal,,Resolve promptly,FINRA Rules
+Verify advertising approvals,Daily,Principal,,Pre-use approval,FINRA Rule 2210
+Monitor concentrated positions,Daily,Principal,,Risk management,FINRA Rule 2111
+Review wire transfer requests,Daily,Financial Principal,,Verify authorization,Internal Policy
+Check net capital status,Daily,Financial/Operations Principal,,Ensure compliance,SEC Rule 15c3-1
+Review AML alerts,Daily,AML Compliance Principal,,Investigate red flags,Bank Secrecy Act

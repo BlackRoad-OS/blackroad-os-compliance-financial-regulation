@@ -1,0 +1,21 @@
+Task,Component,Completed,Responsible Party,Changes Needed,Regulation Reference
+Review supervisory structure,Organization Chart,,"Principal",,FINRA Rule 3110
+Update designated principals list,Principal Designations,,"CCO",,FINRA Rule 3110
+Review branch office definitions,OSJ vs. Non-OSJ,,"Compliance",,FINRA Rule 3110
+Update registered rep supervision,Rep Oversight Procedures,,"Principal",,FINRA Rule 3110
+Review new account procedures,Account Opening,,"Principal",,FINRA Rule 4512
+Update suitability procedures,Suitability Review,,"Principal",,FINRA Rule 2111
+Review advertising approval process,Advertising Procedures,,"Principal",,FINRA Rule 2210
+Update correspondence review,Email/Communications,,"Compliance",,FINRA Rule 3110
+Review AML procedures,AML Program,,"AML Officer",,Bank Secrecy Act
+Update outside business activity process,OBA Procedures,,"Compliance",,FINRA Rule 3270
+Review private securities transactions,Selling Away Procedures,,"Compliance",,FINRA Rule 3280
+Update customer complaint handling,Complaint Procedures,,"Compliance",,FINRA Rule 4513
+Review financial operations,FinOp Procedures,,"FinOp Principal",,SEC Rules
+Update trade execution supervision,Order Handling,,"Principal",,FINRA Rule 5310
+Review continuing education tracking,CE Compliance,,"Compliance",,FINRA Rule 1250
+Update recordkeeping procedures,Books and Records,,"Compliance",,FINRA Rule 4510
+Review branch inspection schedule,Annual Inspections,,"Principal",,FINRA Rule 3110
+Update cybersecurity procedures,Data Protection,,"IT/Compliance",,SEC Guidance
+Review business continuity plan,BCP Testing,,"Operations",,FINRA Rule 4370
+Principal review and approval,WSP Sign-off,,"CCO/CEO",,FINRA Rule 3110

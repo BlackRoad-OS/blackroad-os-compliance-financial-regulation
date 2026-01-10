@@ -1,0 +1,21 @@
+Task,Frequency,Responsible Party,Status,Notes,Regulation Reference
+Review trade confirmations for accuracy,Daily,Operations Manager,,Ensure all trades properly documented,FINRA Rule 2232
+Verify customer account activity,Daily,Registered Representative,,Monitor for unauthorized activity,FINRA Rule 3110
+Check margin account maintenance,Daily,Margin Department,,Ensure accounts meet minimum requirements,Reg T
+Review new account openings,Daily,Compliance Officer,,Verify KYC/AML completion,FINRA Rule 2090
+Monitor order tickets for suitability,Daily,Principal,,Review for red flags,FINRA Rule 2111
+Verify trade execution quality,Daily,Trading Desk,,Ensure best execution,FINRA Rule 5310
+Review customer complaints,Daily,Compliance Department,,Log and respond promptly,FINRA Rule 4513
+Check for regulatory updates,Daily,Compliance Officer,,Review FINRA/SEC notices,N/A
+Monitor email communications,Daily,Compliance Department,,Review for policy violations,FINRA Rule 3110
+Verify cash receipts and disbursements,Daily,Finance Department,,Reconcile customer funds,SEC Rule 15c3-3
+Review options activity,Daily,Options Principal,,Verify approval and suitability,FINRA Rule 2360
+Check for insider trading red flags,Daily,Compliance Officer,,Monitor trading patterns,SEC Rule 10b-5
+Verify securities delivery,Daily,Operations Manager,,Track settlement obligations,FINRA Rule 11860
+Review wire transfer requests,Daily,Finance Department,,Verify authorization,Bank Secrecy Act
+Check for large cash transactions,Daily,AML Officer,,Monitor for CTR/SAR requirements,Bank Secrecy Act
+Review discretionary account activity,Daily,Supervising Principal,,Verify authorization,FINRA Rule 3260
+Monitor for churning activity,Daily,Compliance Officer,,Review turnover ratios,FINRA Rule 2111
+Verify commission charges,Daily,Operations Manager,,Ensure proper disclosure,FINRA Rule 2121
+Check OFAC compliance,Daily,AML Officer,,Screen new accounts and transactions,OFAC Regulations
+Review trading halt notifications,Daily,Trading Desk,,Suspend trading as required,SEC/Exchange Rules

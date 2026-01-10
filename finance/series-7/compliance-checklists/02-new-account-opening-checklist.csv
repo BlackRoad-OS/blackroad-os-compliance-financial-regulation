@@ -1,0 +1,31 @@
+Task,Required,Completed,Responsible Party,Document Required,Regulation Reference
+Obtain new account form,Yes,,Registered Representative,New Account Form,FINRA Rule 4512
+Verify customer identity (CIP),Yes,,Operations,Government-issued ID,USA PATRIOT Act
+Collect customer financial information,Yes,,Registered Representative,Account Application,FINRA Rule 2111
+Determine investment objectives,Yes,,Registered Representative,Account Application,FINRA Rule 2111
+Assess risk tolerance,Yes,,Registered Representative,Risk Questionnaire,FINRA Rule 2111
+Verify customer investment experience,Yes,,Registered Representative,Account Application,FINRA Rule 2111
+Obtain customer signatures,Yes,,Registered Representative,Signed Application,FINRA Rule 4512
+Principal approval of account,Yes,,Branch Manager/Principal,Principal Signature,FINRA Rule 3110
+Check OFAC/sanctions lists,Yes,,AML Officer,OFAC Screening Report,OFAC Regulations
+Verify customer address,Yes,,Operations,Utility Bill or Statement,Customer Identification Program
+Determine account type needed,Yes,,Registered Representative,Account Type Selection,FINRA Rule 4512
+Collect Social Security Number/TIN,Yes,,Operations,W-9 Form,IRS Requirements
+Assess for politically exposed person (PEP),Yes,,AML Officer,PEP Questionnaire,AML Policy
+Review for beneficial ownership,If applicable,,AML Officer,Beneficial Ownership Form,FinCEN CDD Rule
+Obtain margin agreement,If margin account,,Registered Representative,Margin Agreement,Reg T
+Options agreement (if options),If options trading,,Options Principal,Options Agreement,FINRA Rule 2360
+Deliver risk disclosure documents,Yes,,Registered Representative,Risk Disclosures,FINRA Rules
+Provide account fee schedule,Yes,,Registered Representative,Fee Schedule,FINRA Rule 2121
+Complete suitability determination,Yes,,Registered Representative,Suitability Analysis,FINRA Rule 2111
+Establish trusted contact person,Recommended,,Registered Representative,Trusted Contact Form,FINRA Rule 4512
+Provide Regulation Best Interest disclosure,Yes,,Registered Representative,Form CRS,Reg BI
+Document employment status,Yes,,Registered Representative,Account Application,FINRA Rule 4512
+Verify accredited investor status,If applicable,,Registered Representative,Financial Statements,SEC Regulation D
+Obtain investment policy statement,Recommended,,Registered Representative,IPS Document,Best Practice
+Provide privacy notice,Yes,,Operations,Privacy Policy,Reg S-P
+Enter account into CRM system,Yes,,Operations,System Entry,Internal Policy
+Assign account number,Yes,,Operations,Account Number,Internal Policy
+Deliver account opening confirmation,Yes,,Operations,Welcome Letter,FINRA Rule 2232
+File documents in customer file,Yes,,Operations,Complete File,FINRA Rule 4510
+Schedule follow-up contact,Recommended,,Registered Representative,Follow-up Note,Best Practice

@@ -1,0 +1,16 @@
+Task,Deal Phase,Responsible Party,Completed,Document Required,Regulation Reference
+Conduct issuer due diligence,Pre-Deal,Investment Banking,,Due Diligence Report,Securities Act 1933
+Review financial statements,Pre-Deal,Investment Banking,,Audited Financials,Securities Act 1933
+Engage legal counsel,Pre-Deal,Investment Banking,,Engagement Letter,Securities Act 1933
+Draft underwriting agreement,Structuring,Legal,,Underwriting Agreement,FINRA Rule 5110
+Prepare registration statement,Filing,Legal,,Form S-1,Securities Act Section 5
+File with SEC,Filing,Compliance,,SEC Filing Confirmation,Securities Act Section 5
+FINRA corporate financing review,Filing,Compliance,,FINRA Filing,FINRA Rule 5110
+Conduct roadshow presentations,Marketing,Investment Banking,,Roadshow Materials,Securities Act Rules
+Price the offering,Pricing,Syndicate Desk,,Pricing Committee Minutes,FINRA Rules
+Allocate securities,Allocation,Syndicate Desk,,Allocation Records,FINRA Rule 5130
+Execute stabilization (if applicable),Aftermarket,Syndicate Desk,,Stabilization Records,Regulation M
+File final prospectus,Closing,Legal,,Final Prospectus,Securities Act Rule 424
+Deliver securities,Settlement,Operations,,DTC Confirmation,Settlement Rules
+Close transaction,Closing,Investment Banking,,Closing Documents,Underwriting Agreement
+File Form 8-K,Post-Close,Issuer/Legal,,Form 8-K,Exchange Act
