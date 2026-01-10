@@ -11,28 +11,32 @@
 
 **Primary Access:**
 ```
-http://192.168.4.49:8084
+http://192.168.4.49       (port forwarding enabled!)
+http://192.168.4.49:8084  (direct access)
 ```
 
-**Server:** Alice Pi (192.168.4.49)  
-**Process:** PM2 managed (auto-restart)  
-**Memory:** ~48MB  
+**Server:** Alice Pi (192.168.4.49)
+**Process:** PM2 managed (auto-restart)
+**Memory:** ~48MB
 **Status:** 🟢 ONLINE
 
 ### Access Methods:
 
-1. **Local Network (Works Now):**
-   - Direct IP: `http://192.168.4.49:8084`
+1. **Port 80 (No Port Number Needed) - ✅ ACTIVE:**
+   - `http://192.168.4.49`
+   - Port forwarding: 80 → 8084
+   - Set up via: `~/setup-port-forwarding.sh`
    - From any device on your network
    - Mobile responsive
 
-2. **Custom Domain (Optional Setup):**
-   - Run: `~/add-compliance-dns.sh`
-   - Then access: `http://compliance.blackroad.io:8084`
+2. **Direct Port Access (Always Works):**
+   - Direct IP: `http://192.168.4.49:8084`
+   - Useful for debugging
+   - No forwarding required
 
-3. **No Port Number (Optional):**
-   - Run: `~/setup-compliance-nginx.sh`
-   - Then access: `http://192.168.4.49`
+3. **Custom Domain (Optional Setup):**
+   - Run: `~/add-compliance-dns.sh` (requires PowerDNS API)
+   - Then access: `http://compliance.blackroad.io`
 
 ---
 
