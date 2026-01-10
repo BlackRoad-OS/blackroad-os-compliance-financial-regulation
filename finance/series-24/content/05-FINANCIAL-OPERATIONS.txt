@@ -1,0 +1,50 @@
+                                     SEC Uniform Net Capital
+                                     Net Capital ■ Subordination
+                              2.12   Financial Reporting 105                 Person ■ Interested
+                                      ■■ financial projections, including a trial balance, balance sheet, and net capital computa-
+                                      ■■ ability to maintain adequate net capital to support intended business operations on a con-
+                                       the member firm is in compliance with net capital requirements and to notify regulators when
+                                       sible for the maintenance of firm books and records, safekeeping, and the processing and clear-
+                                ■■ Persons involved in the preparation of the firm’s original books and records (blotters)
+                                example, those people who are granted access to the books and records of the firm, such as an
+                                     Making certain that those who work on the firm’s books and records carry no history of
+                                han­dling or processing securities, money, or original books and records or access to those who
+                                permitted access to the bank’s premises in order to inspect the books and records.
+                                   the firm), the member must record the transaction on its books and records. Practically speak-
+                               2. 8. 8. 1. 5 ETF Net Capital Haircuts
+                               ally this will entail net capital violations), SIPC will be notified immediately. If SIPC deter-
+                  2. 11. 1 SEC UNIFORM NET CAPITAL RULE 15C3-1
+                                         The uniform net capital rule is the SEC’s primary means of assuring that registered securi-
+                                    public. In theory, net capital is the amount of money left over after every liability of a broker-
+                                    tain higher levels of net capital than introducing firms. They also are responsible for segregat-
+                                    an introducing firm, their net capital requirement is higher. Let’s review the varying amounts
+                                    of net capital required of various types of member firms.
+                                clearly has a line of business that is inherently risky. The minimum net capital requirement for
+                                have that amount of net capital since they are deemed to carry customer funds.
+                                carrying more than $20 million in net capital must document their procedures for managing
+                                the clearing firm acts as the introducing firm’s back office. The minimum net capital require-
+                                                          If a firm is, for whatever reason, unable to make a net capital computation
+                                                      necessary to demonstrate that it is in compliance with the net capital rule, then it
+                                       firms’ investment accounts. For net capital purposes, the concept of a dealer is any member
+                                           The minimum net capital requirement for a dealer is $100,000. This capital requirement
+                                                      account, its minimum net capital requirement is $100,000, not $5,000 or $50,000.
+                                       products, such as unit trusts or variable annuities, the minimum net capital requirement is
+                                           For firms registered as market makers, the minimum net capital requirement is a function
+                                       ■■ bid price of $5 or less—$1,000 in net capital per security; and
+                                       ■■ bid price of more than $5—$2,500 in net capital per security.
+                                                      mum net capital requirement of $100,000.
+                                                           Also note that the minimum net capital requirement for firms acting as prime
+                                               —— 1. Minimum net capital required for an introducing firm that effects more
+                                               —— 2. Minimum net capital required for a firm that deals exclusively in invest-
+                                               —— 3. Minimum net capital required for an introducing broker-dealer that cannot
+                                               ——     4. Minimum net capital required for a firm that carries customer accounts
+                                               —— 5. Minimum net capital required for a market maker that makes a market in
+                                               —— 6. Minimum net capital required for a market maker that makes a market in
+                                               —— 7. Minimum net capital required for an introducing broker-dealer that
+                  2. 11. 7 BASIC NET CAPITAL COMPUTATION METHOD
+                                   Net capital represents the liquid net worth of a firm as computed using generally accepted
+                                   Net capital excludes the value of a member’s illiquid assets.
+                                                            Net capital = liquid assets – total liabilities
+                               and all liabilities paid off is net capital.
+                               in the net capital computation. Subordinated loans are covered in greater detail later in the
+                                      At this point, the net capital computation is as follows:
